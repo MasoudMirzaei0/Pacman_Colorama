@@ -11,11 +11,11 @@ Check out the executable version in dist folder!
 
 Requirements:
 
-&nsbp;&nsbp;&nsbp;&nsbp;OS: Windows (Because of "msvcrt" Module)
+<tab>OS: Windows (Because of "msvcrt" Module)
 
-&nsbp;&nsbp;&nsbp;&nsbp;Python Version 2.7
+<tab>Python Version 2.7
 
-&nsbp;&nsbp;&nsbp;&nsbp;Colorama Module
+<tab>Colorama Module
 
 Source code is in "pacman.py" file.
 
@@ -27,19 +27,19 @@ You can create your own map file.
 
 Map format description:
 
-&nsbp;&nsbp;&nsbp;&nsbp;First line: Indicates Size of Console Window. (Width Height)
+<tab>First line: Indicates Size of Console Window. (Width Height)
   
-&nsbp;&nsbp;&nsbp;&nsbp;Second line: Indicates number of walls.
+<tab>Second line: Indicates number of walls.
   
-&nsbp;&nsbp;&nsbp;&nsbp;Last line: Indicates number of enemies.
+<tab>Last line: Indicates number of enemies.
   
-&nsbp;&nsbp;&nsbp;&nsbp;Other lines: Indicates position of walls.
+<tab>Other lines: Indicates position of walls.
 
 
 Command for running game (in CMD):
 
-&nsbp;&nsbp;&nsbp;&nsbp;python<space>pacman.py
+<tab>python<space>pacman.py
 
 Requires colorama. If not installed, simply install it using Python Package Index (pip):
 
-&nsbp;&nsbp;&nsbp;&nsbp;pip<space>install<space>colorama
+<tab>pip<space>install<space>colorama
