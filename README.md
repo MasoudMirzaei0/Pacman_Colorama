@@ -19,13 +19,13 @@ Check out the executable version in dist folder!
 
 * Source code is in "pacman.py" file.
 
-* I also used "py2exe" Module for building a ".exe version" of the game which is stored in "dist" folder.
+&nbsp;&nbsp;&nbsp;&nbsp;I also used "py2exe" Module for building a ".exe version" of the game which is stored in "dist" folder.
 
-* Saving option uses python pickle files.
+&nbsp;&nbsp;&nbsp;&nbsp;Saving option uses python pickle files.
 
-* You can create your own map file.
+You can create your own map file.
 
-  + Map format description:
+* Map format description:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First line: Indicates Size of Console Window. (Width Height)
   
