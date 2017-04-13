@@ -17,11 +17,11 @@ Check out the executable version in dist folder!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Colorama Module
 
-* Source code is in "pacman.py" file.
+Source code is in "pacman.py" file.
 
-&nbsp;&nbsp;&nbsp;&nbsp;I also used "py2exe" Module for building a ".exe version" of the game which is stored in "dist" folder.
+I also used "py2exe" Module for building a ".exe version" of the game which is stored in "dist" folder.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Saving option uses python pickle files.
+Saving option uses python pickle files.
 
 You can create your own map file.
 
@@ -36,10 +36,10 @@ You can create your own map file.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other lines: Indicates position of walls.
 
 
-* Command for running game (in CMD):
+Command for running game (in CMD):
 
     python pacman.py
 
-* Requires colorama. If not installed, simply install it using Python Package Index (pip):
+Requires colorama. If not installed, simply install it using Python Package Index (pip):
 
-    pip install colorama
+     pip install colorama
