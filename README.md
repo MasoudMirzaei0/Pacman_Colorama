@@ -9,13 +9,13 @@ Check out the executable version in dist folder!
 
 (Help)
 
-Requirements:
+  + Requirements:
 
-&nbsp;&nbsp;&nbsp;&nbsp;OS: Windows (Because of "msvcrt" Module)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OS: Windows (Because of "msvcrt" Module)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Python Version 2.7
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python Version 2.7
 
-&nbsp;&nbsp;&nbsp;&nbsp;Colorama Module
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Colorama Module
 
 Source code is in "pacman.py" file.
 
@@ -25,15 +25,15 @@ Saving option uses python pickle files.
 
 You can create your own map file.
 
-Map format description:
+  + Map format description:
 
-&nbsp;&nbsp;&nbsp;&nbsp;First line: Indicates Size of Console Window. (Width Height)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First line: Indicates Size of Console Window. (Width Height)
   
-&nbsp;&nbsp;&nbsp;&nbsp;Second line: Indicates number of walls.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Second line: Indicates number of walls.
   
-&nbsp;&nbsp;&nbsp;&nbsp;Last line: Indicates number of enemies.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Last line: Indicates number of enemies.
   
-&nbsp;&nbsp;&nbsp;&nbsp;Other lines: Indicates position of walls.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other lines: Indicates position of walls.
 
 
 Command for running game (in CMD):
